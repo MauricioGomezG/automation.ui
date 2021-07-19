@@ -1,0 +1,27 @@
+{
+  "name": "vanhack.automation",
+  "version": "0.1.0",
+  "description": "VanHack UI Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioGomezG/vanhack.automation.ui.git"
+  },
+  "keywords": [
+    "vanhack",
+    "automation",
+    "UI"
+  ],
+  "author": "Mauricio Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioGomezG/vanhack.automation.ui/issues"
+  },
+  "homepage": "https://github.com/MauricioGomezG/vanhack.automation.ui#readme",
+  "dependencies": {
+    "cypress": "^7.7.0"
+  }
+}
