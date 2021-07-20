@@ -1,0 +1,21 @@
+{
+    "step":"#root > div > div > div > div:nth-child(2) > div:nth-child(3) > div:nth-child(2)",
+    "first":"#innerDiv > div > div:nth-child(2) > div > div > div > div",
+    "fistDropdown":"#innerDiv > div > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div > div:nth-child(3) > div > div > div",
+    "firstYears":"#innerDiv > div > div:nth-child(2) > div > div:nth-child(3) > div > div",
+    "firstYearsDropdown":"#innerDiv > div > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(3) > div > div:nth-child(8)",
+    "second":"#innerDiv > div > div:nth-child(2) > div:nth-child(4) > div > div > div",
+    "secondDropdown":"#innerDiv > div > div:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div > div:nth-child(3) > div > div > div",
+    "secondYears":"#innerDiv > div > div:nth-child(2) > div:nth-child(4) > div:nth-child(3) > div > div",
+    "secondYearsDropdown":"#innerDiv > div > div:nth-child(2) > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(3) > div > div:nth-child(7)",
+    "third":"#innerDiv > div > div:nth-child(2) > div:nth-child(5) > div:nth-child(2) > div > div",
+    "thirdDropdown":"#innerDiv > div > div:nth-child(2) > div:nth-child(5) > div:nth-child(2) > div > div:nth-child(3) > div > div > div",
+    "thirdYears":"#innerDiv > div > div:nth-child(2) > div:nth-child(5) > div:nth-child(3) > div > div",
+    "thirdYearsDropdown":"#innerDiv > div > div:nth-child(2) > div:nth-child(5) > div:nth-child(3) > div > div:nth-child(3) > div > div:nth-child(6)",
+    "firstSecondary":"#innerDiv > div > div:nth-child(2) > div:nth-child(7) > div > div > div > div",
+    "firstSecondaryDropdown":"#innerDiv > div > div:nth-child(2) > div:nth-child(7) > div > div > div > div:nth-child(3) > div > div",
+    "firstSecondaryYears":"#innerDiv > div > div:nth-child(2) > div:nth-child(7) > div > div:nth-child(2) > div > div",
+    "firstSecondaryYearsDropdown":"#innerDiv > div > div:nth-child(2) > div:nth-child(7) > div > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(5)",
+    "nextBtn":"#root > div > div > div > div:nth-child(2) > div:nth-child(3) > button",
+    "toast":".ct-toast"
+}

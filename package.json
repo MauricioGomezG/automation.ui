@@ -1,14 +1,15 @@
 {
   "name": "vanhack.automation",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "VanHack UI Automation Framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules\\.bin\\cypress run --browser chrome",
+    "runtests":"npm run test --"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MauricioGomezG/vanhack.automation.ui.git"
+    "url": "https://github.com/MauricioGomezG/vanhack.automation.ui.git"
   },
   "keywords": [
     "vanhack",

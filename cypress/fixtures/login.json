@@ -1,0 +1,6 @@
+{
+    "modalBtn":":nth-child(2) > .sc-gzVnrw",
+    "email":"#input-email",
+    "password":"#input-password",
+    "loginBtn":".sc-bZQynM"
+}

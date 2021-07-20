@@ -1,0 +1,30 @@
+{
+    "hearFrom":"#root > div > div > div > div:nth-child(2) > div:nth-child(2) > div > div:nth-child(1) > div > div > div",
+    "hearFromValues":"#root > div > div > div > div:nth-child(2) > div:nth-child(2) > div > div > div > div > div:nth-child(3) > div",
+    "Linkedin":"#react-select-2-option-1",
+    "continueWithout":"#root > div > div > div > div:nth-child(2) > div:nth-child(2) > div > div:nth-child(4) > a",
+
+    "profesionalDetailsTitle":"#innerDiv > div > div:nth-child(1) > span",
+    "uploadResumeBtn":"#innerDiv > div > div:nth-child(2) > label",
+    "listValues":".react-select__menu-list",
+
+    "role":"#innerDiv > div > div:nth-child(3) > div > div > div",
+    "qaEngineer":"#react-select-3-option-10",
+
+    "yearsOfExperienceDropdown":"#innerDiv > div > div:nth-child(4)> div > div",
+    "xpfiveYears":"#react-select-4-option-4",
+
+    "leaderShipCheckBox":"#innerDiv > div > div:nth-child(5) > div:nth-child(1) > div:nth-child(1) > div > div > label > input[type=checkbox]",
+    "leaderShipYears":"#innerDiv > div > div:nth-child(5)> div:nth-child(1) > div:nth-child(2) > div > div",
+    "leadTwoYears":"#react-select-5-option-1",
+    "leadValues":"#innerDiv > div > div:nth-child(5) > div > div:nth-child(2) > div > div:nth-child(3) > div > div",
+
+    "differentRole":"#innerDiv > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(1) > div > div > label > input[type=checkbox]",
+    "differentRoleDropdown":"#innerDiv > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(2) > div > div",
+    "rolesValues":"#innerDiv > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(2) > div > div:nth-child(3) > div > div",
+    "backEnd":"#react-select-6-option-0",
+
+    "banner":"#beamerPushModal",
+    "nextBtn":"#root > div > div > div > div:nth-child(2) > div:nth-child(3) > button",
+    "toast":".ct-toast"
+}
