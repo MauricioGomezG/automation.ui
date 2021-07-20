@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules\\.bin\\cypress run --browser chrome",
-    "runtests":"npm run test --"
+    "runtests": "npm run test --"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/MauricioGomezG/vanhack.automation.ui#readme",
   "dependencies": {
-    "cypress": "^7.7.0"
+    "cypress": "^7.7.0",
+    "mocha": "^9.0.2",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0"
   }
 }
